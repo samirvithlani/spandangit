@@ -1,0 +1,37 @@
+9 conecpt
+*********
+
+1)inheritance
+2)overloading
+3)overriding
+4)polymorphisam
+5)abstraction
+6)encapsulation/data hiding
+7)constructor
+8)class
+9)object
+
+class:-class is group of data members and member function and objets..
+
+object:-object is an entity of class..
+
+inheritance:-child/derived class can use property of parent/base class called inheritance...
+
+use:-reusablity..
+
+how to :-using extends key word we can achive inheritance in java..
+
+5 types of inheritance
+
+1)single inheritance
+	1 parent class 1 child class
+
+2)multylevel
+3)hybride
+4)multypule
+5)hyricical inhritance
+
+
+
+
+

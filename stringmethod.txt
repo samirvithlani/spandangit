@@ -1,0 +1,10 @@
+charAt(index) ->return char of passed index..
+toUpperCase();
+toLowerCase();
+length();
+trim();
+equals();
+contains();
+indexOf()
+lastindexOf()
+equalsIgnoreCase()

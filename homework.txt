@@ -1,0 +1,11 @@
+11/12/2020
+create one class named color and create onr child class named shape
+color colorname
+
+inherit shape class
+
+shape class
+
+addcolordata()
+
+getcolordata()
